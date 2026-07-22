@@ -3,3 +3,6 @@ tensorflow==2.21.0
 opencv-python==5.0.0.93
 mediapipe==0.10.35
 loguru==0.7.3
+openai==2.46.0
+numpy
+python-dotenv
